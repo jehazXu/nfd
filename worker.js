@@ -5,8 +5,12 @@ const ADMIN_UID = ENV_ADMIN_UID // your user id, get it from https://t.me/userna
 
 const NOTIFY_INTERVAL = 3600 * 1000;
 const fraudDb = 'https://raw.githubusercontent.com/jehazXu/nfd/main/data/fraud.db';
+const notificationUrl = ''
+const startMsgUrl = '';
+/**
 const notificationUrl = 'https://raw.githubusercontent.com/jehazXu/nfd/main/data/startMessage.md'
 const startMsgUrl = 'https://raw.githubusercontent.com/jehazXu/nfd/main/data/notification.txt';
+ */
 
 const enable_notification = true
 /**
